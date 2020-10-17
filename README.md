@@ -41,6 +41,16 @@ Recently, I am much involved in the "Google cloud","MongoDB","python".
 <code>[FarmEasyApp](https://github.com/soumik2012/FarmEasyApp)</code>:mask:  
 <code>[MusicX](https://github.com/soumik2012/MusicX)</code>:robot:
 
+
+### 📶 Stats:
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=soumik2012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=soumik2012&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik2012&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://profile-counter.glitch.me/ChoukseyKhushbu/count.svg)
+
 [twitter]: https://twitter.com/SoumikBaithalu
 [instagram]: https://www.instagram.com/_soumikk_._/?hl=en
 [linkedin]: www.linkedin.com/in/soumik-baithalu-7a4983198
