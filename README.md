@@ -3,7 +3,7 @@
 </p>
 
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=chandrikadeb7 alt=chandrikadeb7/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=soumik2012 alt=chandrikadeb7/></p>
 
 ## Hi there, I'm Soumik👋
 
@@ -49,7 +49,7 @@ Recently, I am much involved in the "Google cloud","MongoDB","python".
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik2012&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://profile-counter.glitch.me/soumik2012/count.svg)
+
 
 [twitter]: https://twitter.com/SoumikBaithalu
 [instagram]: https://www.instagram.com/_soumikk_._/?hl=en
