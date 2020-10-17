@@ -18,10 +18,13 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br>
+
+
 ### :sparkles: One line that describes me best?
 
-I am a self taught web developer, trying to dive deep in the ocean of web.
+I am a self taught developer, trying to dive deep in the ocean of web world.
+
 
 ### 🤔 What do I do? 
 
@@ -34,7 +37,7 @@ I am a self taught web developer, trying to dive deep in the ocean of web.
 Recently, I am much involved in the "Google cloud","MongoDB","python".
 
 ### What are my featured projects:question::rocket:
-<code>[Tic-tac-toe]https://github.com/soumik2012/Tic-Tac-Toe-game-)</code>:hourglass:     
+<code>[Tic-tac-toe](https://github.com/soumik2012/Tic-Tac-Toe-game-)</code>:hourglass:     
 <code>[FarmEasyApp](https://github.com/soumik2012/FarmEasyApp)</code>:mask:  
 <code>[MusicX](https://github.com/soumik2012/MusicX)</code>:robot:
 
