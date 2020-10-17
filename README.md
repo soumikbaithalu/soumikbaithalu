@@ -53,4 +53,4 @@ Recently, I am much involved in the "Google cloud","MongoDB","python".
 
 [twitter]: https://twitter.com/SoumikBaithalu
 [instagram]: https://www.instagram.com/_soumikk_._/?hl=en
-[linkedin]: www.linkedin.com/in/soumik-baithalu-7a4983198
+[linkedin]: https://www.linkedin.com/in/soumik-baithalu-7a4983198/
