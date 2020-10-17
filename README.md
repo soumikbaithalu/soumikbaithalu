@@ -49,7 +49,7 @@ Recently, I am much involved in the "Google cloud","MongoDB","python".
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik2012&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://profile-counter.glitch.me/ChoukseyKhushbu/count.svg)
+![visitors](https://profile-counter.glitch.me/soumik2012/count.svg)
 
 [twitter]: https://twitter.com/SoumikBaithalu
 [instagram]: https://www.instagram.com/_soumikk_._/?hl=en
