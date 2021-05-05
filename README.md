@@ -7,10 +7,11 @@
 
 ## Hi there, I'm Soumik👋
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently a participant of GSSoC'21
+- 🌱 I’m currently learning Machine learning and Open CV
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and kabaddi 
+- 👯 I’m looking to collaborate on Basic ML Projects
 
 
 ### 📫 Connect with me:
@@ -29,16 +30,16 @@ I am a self taught developer, trying to dive deep in the ocean of web world.
 ### 🤔 What do I do? 
 
  - :green_book: I am a  junior year, with a great interest in python.
- - :green_book: Building projects in NVDIA. 
+ - :green_book: Building projects in OpenCV and AI. 
  - :green_book: Looking for interesting opportunities in Software Engineering.
 
 ### 🌱 What I’m currently learning?
 
-Recently, I am much involved in the "Google cloud","MongoDB","python".
+Recently, I am much involved in the "Google cloud","OpenCV","python","Mediapipe".
 
 ### What are my featured projects:question::rocket:
-<code>[Tic-tac-toe](https://github.com/soumik2012/Tic-Tac-Toe-game-)</code>:hourglass:     
-<code>[FarmEasyApp](https://github.com/soumik2012/FarmEasyApp)</code>:mask:  
+<code>[Gesture Volume control](https://github.com/soumik2012/Gesture-Volume-Control)</code>:hand:    
+<code>[Valcones Map ](https://github.com/soumik2012/Volcanoes_Map)</code>🌋  
 <code>[MusicX](https://github.com/soumik2012/MusicX)</code>:robot:
 
 
