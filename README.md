@@ -8,11 +8,11 @@
 ## Hi there, I'm Soumik👋
 
 - 🔭 I’m currently a participant of GSSoC'21
+- 
 - 🌱 I’m currently learning Machine learning and Open CV
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and kabaddi 
 - 👯 I’m looking to collaborate on Basic ML Projects
-
 
 ### 📫 Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -29,7 +29,7 @@ I am a self taught developer, trying to dive deep in the ocean of web world.
 
 ### 🤔 What do I do? 
 
- - :green_book: I am a  3rd year, with a great interest in python.
+ - :green_book: I am a  3th year, with a great interest in python.
  - :green_book: Building projects in OpenCV and AI. 
  - :green_book: Looking for interesting opportunities in Software Engineering.
 
@@ -51,7 +51,6 @@ Recently, I am much involved in the "Google cloud","OpenCV","python","Mediapipe"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik2012&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[linkedin]: https://www.linkedin.com/in/soumik-baithalu-7a4983198/
 [twitter]: https://twitter.com/SoumikBaithalu
 [instagram]: https://www.instagram.com/_soumikk_._/?hl=en
-[linkedin]: https://www.linkedin.com/in/soumik-baithalu-7a4983198/
