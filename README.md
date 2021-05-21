@@ -48,6 +48,10 @@ Recently, I am much involved in the "Google cloud","OpenCV","python","Mediapipe"
 <code>[Valcones Map ](https://github.com/soumik2012/Volcanoes_Map)</code>🌋  
 <code>[MusicX](https://github.com/soumik2012/MusicX)</code>:robot:
 
+### Earned Badges
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
+
+
 
 ### 📶 Stats:
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=soumik2012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
