@@ -7,7 +7,7 @@
 
 ## Hi there, I'm Soumik👋
 
-- 🔭 I’m currently a participant of GSSoC'21
+- 🔭 I’m participant of GSSoC'21 
 - 🌱 I’m currently learning Machine learning and Open CV
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and kabaddi 
