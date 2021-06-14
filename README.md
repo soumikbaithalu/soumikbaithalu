@@ -6,8 +6,8 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=soumik2012 alt=chandrikadeb7/></p>
 
 ## Hi there, I'm Soumik👋
-
-- 🔭 I’m participant of GSSoC'21 
+- 👨‍🏫 Now I'm mentor at LGM-SOC'21 
+- 🔭 I have participant of GSSoC'21 [Here](https://gssoc21certificates.xyz/certify/GSGSSOC21P0090)
 - 🌱 I’m currently learning Machine learning and Open CV
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and kabaddi 
