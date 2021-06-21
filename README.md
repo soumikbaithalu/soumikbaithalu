@@ -1,18 +1,15 @@
-<p align="center">
-  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
-</p>
-
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=soumik2012 alt=chandrikadeb7/></p>
-
 ## Hi there, I'm Soumik👋
-- 👨‍🏫 I’m currently working as a Mentor for Let's Grow More - Summer of Code (LGM-SoC'21). 
+<img src="https://i.imgur.com/TQHkirh.gif" align="center"/>
+
+- 👨‍🏫 I’m currently working as a Mentor for Let's Grow More - Summer of Code (LGM-SoC'21).     
 - 🔭 Open-source contributor for GSSoC'21 [Here](https://gssoc21certificates.xyz/certify/GSGSSOC21P0090)
 - 🌱 I’m currently learning Machine learning and Open CV
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and kabaddi 
 - 👯 I’m looking to collaborate on Basic ML Projects
 
+## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=soumik2012 alt=chandrikadeb7/></p>
 
 ## Want to connect? My inbox is always open! 📫
 <p align="center">
