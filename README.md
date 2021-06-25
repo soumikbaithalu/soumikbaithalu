@@ -41,9 +41,11 @@ I am a self taught developer, trying to dive deep in the ocean of web world.
 Recently, I am much involved in the "Google cloud","OpenCV","python","Mediapipe".
 
 ### What are my featured projects:question::rocket:
+<code>[ ChatHub ](https://github.com/soumik2012/Chathub)</code> 💬   
 <code>[Gesture Volume control](https://github.com/soumik2012/Gesture-Volume-Control)</code>:hand:    
 <code>[Valcones Map ](https://github.com/soumik2012/Volcanoes_Map)</code>🌋  
 <code>[Dictinary GUI](https://github.com/soumik2012/Dictionary_GUI)</code>:robot:
+
 
 ### Earned Badges
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
