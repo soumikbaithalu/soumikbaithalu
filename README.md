@@ -55,7 +55,8 @@ Recently, I am much involved in the "Google cloud","OpenCV","python","Mediapipe"
 ### 📶 Stats:
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=soumik2012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=soumik2012&show_icons=true&theme=dracula&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumik2012&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik2012&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
