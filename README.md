@@ -1,7 +1,7 @@
 ## Hi there, I'm Soumik👋
 <img src="https://i.imgur.com/TQHkirh.gif" align="center"/>
 
-- 👨‍🏫 I’m currently working as a Project admin for Let's Grow More - Summer of Code (LGM-SoC'21).     
+- 👨‍🏫 I’m  worked as a Project admin for Let's Grow More - Summer of Code (LGM-SoC'21).     
 - 🔭 Open-source contributor for GSSoC'21 [Here](https://gssoc21certificates.xyz/certify/GSGSSOC21P0090)
 - 🌱 I’m currently learning Machine learning and Open CV
 - 🥅 Goals: Contribute more to Open Source projects
