@@ -29,7 +29,7 @@ I am a self taught developer, trying to dive deep in the ocean of web world.
 
 ### 🤔 What do I do? 
 
- - :green_book: I am a  3th year, with a great interest in python.
+ - :green_book: I am a Final year, with a great interest in python and web-development.
  - :green_book: Building projects in OpenCV and AI. 
  - :green_book: Looking for interesting opportunities in Software Engineering.
 
