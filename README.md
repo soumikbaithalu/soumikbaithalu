@@ -48,9 +48,9 @@ cloud","OpenCV","python","Mediapipe".
 
 ### What are my featured projects:question::rocket:
 
-<code>[ ChatHub ](https://github.com/soumik2012/Chathub)</code> 💬  
-<code>[Gesture Volume control](https://github.com/soumik2012/Gesture-Volume-Control)</code>:hand:  
-<code>[Valcones Map ](https://github.com/soumik2012/Volcanoes_Map)</code>🌋  
+<code>[ ChatHub ](https://github.com/soumik2012/Chathub)</code> 💬
+<code>[Gesture Volume control](https://github.com/soumik2012/Gesture-Volume-Control)</code>:hand:
+<code>[Valcones Map ](https://github.com/soumik2012/Volcanoes_Map)</code>🌋
 <code>[Dictinary GUI](https://github.com/soumik2012/Dictionary_GUI)</code>:robot:
 
 ### Earned Badges
