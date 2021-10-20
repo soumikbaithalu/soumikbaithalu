@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Basic ML Projects
 
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=soumik2012 alt=chandrikadeb7/></p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=soumikbaithalu alt=chandrikadeb7/></p>
 
 ## Want to connect? My inbox is always open! 📫
 <p align="center">
