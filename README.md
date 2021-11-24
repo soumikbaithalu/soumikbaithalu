@@ -48,8 +48,9 @@ Recently, I am much involved in the "Google cloud","OpenCV","python","Mediapipe"
 
 
 ### Earned Badges
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
-
+<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100"> </a> <a>
+<img src="https://user-images.githubusercontent.com/66599363/143184209-b1d4c1a6-1b1b-42fa-a6cd-19020fecea2c.png" alt="OpenSourceInitiative" width="100" height="100" >
+</a>
 
 
 ### 📶 Stats:
