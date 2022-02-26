@@ -1,5 +1,6 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## Hi there, I'm Soumik👋
-<img src="https://i.imgur.com/TQHkirh.gif" align="center"/>
 
 - 👨‍🏫 I’m  working as a  Associate Professional Trainee at DXC-Technology .     
 - 🔭 Open-source contributor for GSSoC'21 [Here](https://gssoc21certificates.xyz/certify/GSGSSOC21P0090)
