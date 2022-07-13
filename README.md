@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Soumik👋
 
-- 👨‍🏫 I’m  working as a  Associate Professional Trainee at DXC-Technology .   
+- 👨‍🏫 I’m  working as a  Associate Software developer at Dürr group .   
 - 🎶 I am guy that love open source in the blood open source is flowing through my vein.  
 - 🔭 Open-source contributor for GSSoC'21 [Here](https://gssoc21certificates.xyz/certify/GSGSSOC21P0090)
 - 🌱 I’m currently learning Machine learning and Open CV
